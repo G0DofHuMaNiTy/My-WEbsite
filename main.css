@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(58, 32, 125);
+}
+li, a{
+    color: rgb(43, 255, 0);
+    font-family: cursive;
+}
+h1, p, u{
+    color: rgb(235, 197, 85);
+    font-family: cursive;
+}
